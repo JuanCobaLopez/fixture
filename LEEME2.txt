@@ -5,8 +5,3 @@ Este sistema esta siendo desarrollado por Juan Carlos Coba Lopez, para el taller
 La función del sistema es la de permitir al usuario obtener un fixture deacuerdo a los equipos que cree, el sistema cuenta también con gestión de usuarios.
 
 Bueno, eso es todo.
-
-
-
-Direccion git:
-https://github.com/JuanCobaLopez/fixture
