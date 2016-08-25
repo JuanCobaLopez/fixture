@@ -1864,7 +1864,7 @@
 <XPD:REF name="DiagramOwner">xzpp4dS72U2lmztkgPvO+QAA</XPD:REF>
 <XPD:OBJ name="DiagramView" type="UMLClassDiagramView" guid="bJKwNV+EFkWOlSynZQ1o9gAA">
 <XPD:REF name="Diagram">HhcAgy+Ei0KratVTT1nnVgAA</XPD:REF>
-<XPD:ATTR name="#OwnedViews" type="integer">19</XPD:ATTR>
+<XPD:ATTR name="#OwnedViews" type="integer">17</XPD:ATTR>
 <XPD:OBJ name="OwnedViews[0]" type="UMLClassView" guid="qr5179PgDU6XcIn0zr1FyAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
@@ -2637,56 +2637,6 @@
 <XPD:REF name="Model">dM65SNApGUy1D1BbjDkmpwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[17]" type="UMLColObjectView" guid="MKcHCFJ1SEufrlzYOcSbLgAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">380</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">52</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">70</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">40</XPD:ATTR>
-<XPD:REF name="Model">HCLVNd/Gik+jore2wVosEQAA</XPD:REF>
-<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="LgnXmAhGB0CyxkIc51wujAAA">
-<XPD:OBJ name="NameLabel" type="LabelView" guid="kFV74/0y00y7vl5v0E28ngAA">
-<XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Object1</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="sFtsh+IEt0OZa/bkjZkWygAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="LabelView" guid="Umy9l7lzwkWS1klipfktQQAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="SlotCompartment" type="UMLSlotCompartmentView" guid="+KH+6s1Mr0WLSAu+qJAaowAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:REF name="Model">HCLVNd/Gik+jore2wVosEQAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedViews[18]" type="UMLColObjectView" guid="9uR2XN5Ddk2Sj9Kg85JfDwAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">568</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">92</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">70</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">40</XPD:ATTR>
-<XPD:REF name="Model">yzsmVgWkekGa6sW0YaLpaAAA</XPD:REF>
-<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="AGMIomWEmECxeg8JmR6tYQAA">
-<XPD:OBJ name="NameLabel" type="LabelView" guid="B+GvRjDLBk+f+9seiY3IdQAA">
-<XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Object2</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="BOuu9jKAKE+9TTiFTwjw1gAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="LabelView" guid="UsSPZUWuL0GmARjIi75qSQAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="SlotCompartment" type="UMLSlotCompartmentView" guid="9VjJgKjZQkOSoskS5Wbj2wAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:REF name="Model">yzsmVgWkekGa6sW0YaLpaAAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:ATTR name="#OwnedElements" type="integer">22</XPD:ATTR>
@@ -3027,16 +2977,10 @@
 <XPD:OBJ name="OwnedElements[20]" type="UMLObject" guid="HCLVNd/Gik+jore2wVosEQAA">
 <XPD:ATTR name="Name" type="string">Object1</XPD:ATTR>
 <XPD:REF name="Namespace">xzpp4dS72U2lmztkgPvO+QAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">2</XPD:ATTR>
-<XPD:REF name="Views[0]">MKcHCFJ1SEufrlzYOcSbLgAA</XPD:REF>
-<XPD:REF name="Views[1]">+KH+6s1Mr0WLSAu+qJAaowAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[21]" type="UMLObject" guid="yzsmVgWkekGa6sW0YaLpaAAA">
 <XPD:ATTR name="Name" type="string">Object2</XPD:ATTR>
 <XPD:REF name="Namespace">xzpp4dS72U2lmztkgPvO+QAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">2</XPD:ATTR>
-<XPD:REF name="Views[0]">9uR2XN5Ddk2Sj9Kg85JfDwAA</XPD:REF>
-<XPD:REF name="Views[1]">9VjJgKjZQkOSoskS5Wbj2wAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[2]" type="UMLModel" guid="vxxI8V91l06J6zWL9lPlbAAA">
